@@ -1,0 +1,45 @@
+<!doctype html>
+{% load static %}
+{% load admin_urls %}
+<html class="no-js" lang="zxx">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Интеграционная шина (IT-PSG)</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{% static 'admin/css/root_page_bootstrap.min.css' %}">
+    <link rel="stylesheet" href="{% static 'admin/css/root_page_style.css' %}">
+</head>
+
+<body>
+    <!-- slider_area_start -->
+    <div class="slider_area">
+
+        <div class="single_slider  d-flex align-items-center slider_bg_1">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-7 col-md-6">
+                        <div class="slider_text">
+                            <h5 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".2s">IT - PSG </h5>
+                            <h3 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">Интеграционная шина</h3>
+                            <h5 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">Экспедиционной логистической платформы</h5>
+                            <h3 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">ELP PSG</h3>
+                            <div class="sldier_btn wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">
+                                <a href="{% url 'admin:index' %}" class="boxed-btn3">Перейти в административную панель</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="ilstration_img wow fadeInRight d-none d-lg-block text-right" data-wow-duration="1s" data-wow-delay=".2s">
+            <img src="{% static 'admin/img/root_media/it-psg-logo.png' %}" alt="">
+        </div>
+
+    </div>
+    <!-- slider_area_end -->
+</body>
+
+</html>
