@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-21T20:01:20.009Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="3g5tiH-BJ_XttXyMBvja" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-22T08:37:30.824Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="jibAC-DCs0KZnJXZo5H1" version="22.0.6" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="2498" dy="1310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1665" dy="873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -137,7 +137,7 @@
             <mxPoint x="1393.25" y="700" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IA3y5WRSA6P5cWLB5XNU-75" value="Набор позиций &lt;br&gt;(Самая быстрая доставка)" style="whiteSpace=wrap;html=1;" vertex="1" parent="IA3y5WRSA6P5cWLB5XNU-53">
+        <mxCell id="IA3y5WRSA6P5cWLB5XNU-75" value="Набор позиций до необходимого кол-ва&lt;br&gt;(Самая быстрая доставка)" style="whiteSpace=wrap;html=1;" vertex="1" parent="IA3y5WRSA6P5cWLB5XNU-53">
           <mxGeometry x="20.25" y="278.5" width="159.5" height="61.5" as="geometry" />
         </mxCell>
         <mxCell id="IA3y5WRSA6P5cWLB5XNU-76" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" target="IA3y5WRSA6P5cWLB5XNU-77" source="IA3y5WRSA6P5cWLB5XNU-57" parent="IA3y5WRSA6P5cWLB5XNU-53">
@@ -145,7 +145,7 @@
             <mxPoint x="1393.25" y="700" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IA3y5WRSA6P5cWLB5XNU-77" value="Набор позиций &lt;br&gt;(Самая дешевая доставка)" style="whiteSpace=wrap;html=1;" vertex="1" parent="IA3y5WRSA6P5cWLB5XNU-53">
+        <mxCell id="IA3y5WRSA6P5cWLB5XNU-77" value="Набор позиций до необходимого кол-ва&lt;br&gt;(Самая дешевая доставка)" style="whiteSpace=wrap;html=1;" vertex="1" parent="IA3y5WRSA6P5cWLB5XNU-53">
           <mxGeometry x="220.25" y="280" width="139.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IA3y5WRSA6P5cWLB5XNU-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="IA3y5WRSA6P5cWLB5XNU-35" source="IA3y5WRSA6P5cWLB5XNU-79" target="IA3y5WRSA6P5cWLB5XNU-85">
